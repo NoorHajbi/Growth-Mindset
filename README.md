@@ -26,3 +26,6 @@
 - [ ] I'm very smart enough.
 - [x] I believe in myself.
 - [ ] I am always focused.
+
+### *Resources*
+[Image resource](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
