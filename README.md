@@ -13,7 +13,7 @@
   ***So, Why don't we exercise ourselves in the growth mindset?***  
   *Let's daily before you sleep ask yourself some questions, like these*
 
-First Header | Second Header
+First Header  Second Header
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+*What made you think hard today? | *Did you work as hard as you could have?
+*How will you challenge yourself? | *What are your plans for tomorrow?
