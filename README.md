@@ -8,5 +8,5 @@
 # GROWTH MINDSET
 
 **Growth Mindset:** *The beliefs that one’s fundamental abilities can be developed through hard work and effort.*  
-![Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png | width=100)
+![Growth Mindset](https://lifewithnolimits.files.wordpress.com/2016/07/newgrowthmindset2-480x600.png?w=1154)
 
