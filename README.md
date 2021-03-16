@@ -7,5 +7,6 @@
 
 # GROWTH MINDSET
 
-**Growth Mindset:** *The beliefs that one’s fundamental abilities can be developed through hard work and effort.* 
+**Growth Mindset:** *The beliefs that one’s fundamental abilities can be developed through hard work and effort.*  
+[Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
