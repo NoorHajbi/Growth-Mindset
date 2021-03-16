@@ -14,6 +14,6 @@
   *Let's daily before you sleep ask yourself some questions, like these*
 
 First Header  Second Header
------------- | -------------
-*What made you think hard today? | *Did you work as hard as you could have?
+------------------------------------------------------------------------------
+*What made you think hard today?  | *Did you work as hard as you could have?
 *How will you challenge yourself? | *What are your plans for tomorrow?
