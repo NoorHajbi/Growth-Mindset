@@ -14,12 +14,8 @@
   *Let's daily before you sleep ask yourself some questions, like these*
   
  
- | 
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
-First Header  Second Header
-------------------------------------------------------------------------------
+First Header | Second Header
+----------------------------------|--------------------------------------------
 *What made you think hard today?  | *Did you work as hard as you could have?
 *How will you challenge yourself? | *What are your plans for tomorrow?
