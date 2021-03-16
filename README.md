@@ -18,4 +18,11 @@
  Keep going. | Keep growing.
 ----------------------------------|--------------------------------------------
 *What made you think hard today?  | *Did you work as hard as you could have?
-*How will you challenge yourself? | *What are your plans for tomorrow?
+*How will you challenge yourself? | *What are your plans for tomorrow?  
+
+*And now let's try to change every negative idea to positive, i will start with myself*
+
+- [x] I work hard.
+- [ ] I'm very smart enough.
+- [x] I believe in myself.
+- [ ] I am always focused.
